@@ -1,0 +1,21 @@
+{
+  "name": "clustering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "data-forge": "^1.8.12",
+    "data-forge-fs": "0.0.8",
+    "init": "^0.1.2",
+    "open": "^7.3.0",
+    "plotly": "^1.0.6",
+    "shaman": "^0.3.2",
+    "simple-statistics": "^7.3.2"
+  }
+}
